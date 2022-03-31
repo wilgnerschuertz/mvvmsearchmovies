@@ -27,7 +27,7 @@ class MovieList extends StatelessWidget {
                       fit: BoxFit.cover,
                       image: NetworkImage(movie.poster)
                   ),
-                  borderRadius: BorderRadius.circular(6)
+                  borderRadius: BorderRadius.circular(8)
               ),
               width: 100,
               height: 150,
